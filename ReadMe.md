@@ -6,7 +6,8 @@
     ## Last modified: April 19, 2015
     #
     ## Disclaimer: The code in this archive is not guaranteed to be optimised or free of bugs.
-    ##        Please report any issues to the authors (jack.kuipers@bsse.ethz.ch and giusi.moffa@gmail.com).
+    ##        Please report any issues to the authors 
+    ##        (jack.kuipers@bsse.ethz.ch and giusi.moffa@gmail.com).
 
 * * * * *
 
