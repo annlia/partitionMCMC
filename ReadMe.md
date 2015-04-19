@@ -27,7 +27,7 @@ for both these small examples are provided.
 `BHmain.R` runs an example with the Boston Housing data with 14 nodes
 and the BGe score.
 
-`medsimmain.R`, “largesimmain.R” and “largersimmain.R” run larger
+`medsimmain.R`, `largesimmain.R` and `largersimmain.R` run larger
 simulated examples with 14, 18 and 20 nodes respectively.
 
 The underlying MCMC codes are stored in the directories
